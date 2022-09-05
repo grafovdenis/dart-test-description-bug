@@ -2,7 +2,7 @@
 
 ## Bug description
 
-Once you're trying to run test, which contains variable used in other test, multiple tests would be executed.
+Once you're trying to run test, which description contains variable or type used in other test, multiple tests would be executed.
 
 ![Console result](docs/result_console.png)
 
